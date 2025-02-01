@@ -27,4 +27,4 @@ Selamat datang di **Echo 2 Apps** – aplikasi e-commerce yang memudahkan belanj
 - 🔥 **Firebase** – Autentikasi dan database real-time.
 
 ## 📞 Kontak & Dukungan
-📸 Instagram: [@ecommerceapp](http://instagram.com/rafy_998)
+📸 Instagram: [@rafy_998](http://instagram.com/rafy_998)

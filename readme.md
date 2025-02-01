@@ -11,7 +11,7 @@ Selamat datang di **Echo 2 Apps** – aplikasi e-commerce yang memudahkan belanj
 
 ### Android 📱
 1. Klik tombol di bawah untuk mengunduh APK terbaru:
-   [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1Utc4nhN-z62pBAG7KZYOb6ufDI1ZaqdL/view?usp=sharing)
+   [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1wDGTtmB5hPIqbgXWa5265mm6YjEgDPR7/view?usp=sharing)
 2. Instal aplikasi dan mulai belanja!
 
 ### iOS 🍏
